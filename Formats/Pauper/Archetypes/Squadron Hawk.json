@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Tireless Tribe"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Basilisk Gate"]
     },
     {
