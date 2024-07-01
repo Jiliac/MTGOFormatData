@@ -3,10 +3,6 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "OneOrMoreInMainOrSideboard",
-      "Cards": ["The Tabernacle at Pendrell Vale", "Sphere of Resistance"]
-    },
-    {
       "Type": "OneOrMoreInMainboard",
       "Cards": [
         "Dark Depths",

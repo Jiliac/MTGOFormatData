@@ -4,7 +4,12 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Goblin Lackey", "Muxus, Goblin Grandee", "Battle Cry Goblin"]
+      "Cards": [
+        "Goblin Lackey",
+        "Muxus, Goblin Grandee",
+        "Battle Cry Goblin",
+        "Krenko, Mob Boss"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",

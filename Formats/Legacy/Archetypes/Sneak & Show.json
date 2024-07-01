@@ -3,7 +3,7 @@
   "IncludeColorInName": false,
   "Conditions": [
     { "Type": "InMainboard", "Cards": ["Sneak Attack"] },
-    { "Type": "DoesNotContain", "Cards": ["Omniscience"] }
+    { "Type": "DoesNotContainInMainboard", "Cards": ["Omniscience"] }
   ],
   "Variants": [
     {
