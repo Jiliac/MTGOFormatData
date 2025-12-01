@@ -12,6 +12,18 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Allosaurus Shepherd"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Llanowar Elves"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Elvish Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Heritage Druid"]
     },
     {

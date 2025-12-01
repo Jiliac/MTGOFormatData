@@ -1,6 +1,6 @@
 {
-    "Name": "Blue Terror",
-    "IncludeColorInName": false,
+    "Name": "Terror",
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type" : "InMainboard",
