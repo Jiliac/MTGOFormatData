@@ -20,6 +20,18 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Birthing Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Necrodominance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hollow One"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Overlord of the Balemurk"]
     },
     {

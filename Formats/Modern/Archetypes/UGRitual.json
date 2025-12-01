@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Birthing Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ephemerate"]
     }
   ]
 }

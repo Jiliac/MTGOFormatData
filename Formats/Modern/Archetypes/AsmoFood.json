@@ -28,6 +28,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Living End"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Archon of Cruelty"]
     }
   ]
