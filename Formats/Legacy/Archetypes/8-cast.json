@@ -1,5 +1,5 @@
 {
-  "Name": "8-cast",
+  "Name": "Blue Artifacts",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -8,7 +8,8 @@
         "Sai, Master Thopterist",
         "Kappa Cannoneer",
         "Emry, Lurker of the Loch",
-        "Patchwork Automaton"
+        "Patchwork Automaton",
+        "Pinnacle Emissary"
       ]
     },
     {
