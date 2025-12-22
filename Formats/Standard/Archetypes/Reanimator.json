@@ -7,7 +7,7 @@
       "Cards": ["Zombify", "Kona, Rescue Beastie", "Bringer of the Last Gift"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Deep-Cavern Bat"]
     },
     {
