@@ -4,11 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Zombify", "Kona, Rescue Beastie", "Bringer of the Last Gift"]
-    },
-    {
-      "Type": "DoesNotContainMainboard",
-      "Cards": ["Deep-Cavern Bat"]
+      "Cards": ["Zombify", "Bringer of the Last Gift"]
     },
     {
       "Type": "DoesNotContain",
