@@ -8,7 +8,19 @@
         },   
   	    {
             "Type": "DoesNotContain",
+            "Cards": ["Gaea's Cradle"]
+        },   
+  	    {
+            "Type": "DoesNotContain",
             "Cards": ["Golgari Grave-Troll"]
+        },   
+  	    {
+            "Type": "DoesNotContain",
+            "Cards": ["Wight of the Reliquary"]
+        },   
+  	    {
+            "Type": "DoesNotContain",
+            "Cards": ["Talon Gates of Madara"]
         },   
   	    {
             "Type": "DoesNotContain",

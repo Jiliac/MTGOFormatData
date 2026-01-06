@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Tamiyo, Inquisitive Student"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ocelot Pride"]
     }
   ]
 }

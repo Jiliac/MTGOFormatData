@@ -71,6 +71,10 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Knight of the Reliquary"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Urza's Saga"]
         }
       ]
     }

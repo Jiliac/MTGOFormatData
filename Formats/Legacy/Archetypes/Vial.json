@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContainMainboard",
+      "Cards": ["Phelia, Exuberant Shepherd"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Stoneforge Mystic"]
     },
     {
