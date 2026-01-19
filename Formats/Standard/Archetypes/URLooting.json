@@ -32,6 +32,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Ouroboroid"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Bloodletter of Aclazotz"]
     },
     {
