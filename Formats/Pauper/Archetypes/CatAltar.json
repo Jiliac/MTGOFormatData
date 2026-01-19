@@ -1,0 +1,19 @@
+{
+    "Name": "CatAltar",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cauldron Familiar"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Myr Retriever"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        }
+    ]
+}
+

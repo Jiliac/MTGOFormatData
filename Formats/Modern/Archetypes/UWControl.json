@@ -60,6 +60,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Birthing Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Hedron Crab"]
     },
   ],
