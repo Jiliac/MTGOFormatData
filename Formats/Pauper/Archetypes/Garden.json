@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Cauldron Familiar"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Goblin Matron"]
     },
     {

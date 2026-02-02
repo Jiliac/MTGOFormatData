@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Doomsday Excruciator"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Nurturing Pixie"]
     },
     {

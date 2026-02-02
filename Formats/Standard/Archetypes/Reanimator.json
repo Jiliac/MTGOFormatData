@@ -8,6 +8,14 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Sultai Rhythm"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Doomsday Excruciator"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Yuna, Hope of Spira"]
     },
     {

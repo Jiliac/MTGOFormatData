@@ -5,6 +5,10 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Floating-Dream Zubera","Ember-Fist Zubera","Ashen-Skin Zubera"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Nested Shambler"]
         }
     ]   
 }
