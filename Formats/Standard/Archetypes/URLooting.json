@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Doomsday Excruciator"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Enduring Vitality"]
     },
     {

@@ -12,7 +12,11 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Enduring Vitality"]
+      "Cards": ["Earthbender Ascension"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sazh's Chocobo"]
     }
   ]
 }
