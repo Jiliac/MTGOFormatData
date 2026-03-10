@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Show and Tell"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Mox Diamond"]
     },
     {
