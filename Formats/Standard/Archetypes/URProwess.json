@@ -1,22 +1,14 @@
 {
-  "Name": "Midrange",
+  "Name": "Prowess",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Quantum Riddler"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Winternight Stories"]
+      "Cards": ["Elusive Otter"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Splash Portal"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Monument to Endurance"]
     },
     {
       "Type": "DoesNotContain",

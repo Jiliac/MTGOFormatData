@@ -13,6 +13,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Force of Will"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Mind's Desire"]
         }
     ],
     "Variants": [

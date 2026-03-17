@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Elusive Otter"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Warleader's Call"]
     },
     {

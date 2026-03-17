@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Nadu, Winged Wisdom"]
     },
     {

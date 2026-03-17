@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Birthing Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Ajani, Nacatl Pariah"]
     }
   ]

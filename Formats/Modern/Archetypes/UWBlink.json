@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Birthing Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Goryo's Vengeance"]
     },
     {

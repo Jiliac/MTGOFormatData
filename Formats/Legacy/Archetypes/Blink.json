@@ -11,6 +11,10 @@
       "Cards": ["Murktide Regent"]
     },
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Guide of Souls"]
+    },
+    {
       "Type": "DoesNotContainMainboard",
       "Cards": ["Thalia, Guardian of Thraben"]
     },

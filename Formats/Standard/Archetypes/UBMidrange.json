@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Monument to Endurance"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Doomsday Excruciator"]
     },
     {

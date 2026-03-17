@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Stinkweed Imp"]
     },
     {

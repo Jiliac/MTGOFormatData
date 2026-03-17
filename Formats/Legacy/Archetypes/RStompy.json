@@ -1,10 +1,12 @@
 {
-  "Name": "Prison",
+  "Name": "Stompy",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": [
+        "Seasoned Dungeoneer",
+        "Caves of Chaos Adventurer",
         "Laelia, the Blade Reforged",
         "Caves of Chaos Adventurer",
         "Fury",
@@ -38,11 +40,27 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Seasoned Dungeoneer"]
+      "Cards": ["Cavern of Souls"]
     },
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Cavern of Souls"]
+        "Type": "DoesNotContain",
+        "Cards": ["Yorion, Sky Nomad"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Kaldra Compleat"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Arena Rector"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Karn, the Great Creator"]
+    },
+    {
+        "Type": "DoesNotContainMainboard",
+        "Cards": ["Trinisphere"]
     }
   ]
 }
