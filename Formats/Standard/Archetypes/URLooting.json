@@ -12,7 +12,23 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Slickshot Show-Off"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Elusive Otter"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Splash Portal"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Shiko, Paragon of the Way"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Jeskai Revelation"]
     },
     {
       "Type": "DoesNotContain",

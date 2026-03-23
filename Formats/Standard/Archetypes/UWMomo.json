@@ -20,10 +20,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Avatar's Wrath"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Jeskai Revelation"]
     },
     {

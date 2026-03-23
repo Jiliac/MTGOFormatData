@@ -1,5 +1,5 @@
 {
-  "Name": "Tempo",
+  "Name": "Flash",
   "IncludeColorInName": true,
   "Conditions": [
     {
@@ -12,15 +12,15 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Kaito, Bane of Nightmares"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Sarkhan, Dragon Ascendant"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Doc Aurlock, Grizzled Genius"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Avatar's Wrath"]
     },
     {
       "Type": "DoesNotContain",

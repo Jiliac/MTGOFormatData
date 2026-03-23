@@ -17,6 +17,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Tiger-Seal"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Splash Portal"]
     },
     {
