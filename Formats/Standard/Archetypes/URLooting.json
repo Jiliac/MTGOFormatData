@@ -1,5 +1,5 @@
 {
-  "Name": "Midrange",
+  "Name": "Looting",
   "IncludeColorInName": true,
   "Conditions": [
     {
@@ -7,8 +7,8 @@
       "Cards": ["Quantum Riddler"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Winternight Stories"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Winternight Stories", "Tiger-Seal"]
     },
     {
       "Type": "DoesNotContain",

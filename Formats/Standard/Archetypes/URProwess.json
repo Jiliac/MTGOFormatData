@@ -3,8 +3,17 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Elusive Otter", 
+        "Drake Hatcher", 
+        "Slickshot Show-Off", 
+        "Valley Floodcaller"
+      ]
+    },
+    {
       "Type": "InMainboard",
-      "Cards": ["Elusive Otter"]
+      "Cards": ["Boomerang Basics"]
     },
     {
       "Type": "DoesNotContain",
