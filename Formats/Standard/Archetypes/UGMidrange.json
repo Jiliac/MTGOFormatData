@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Aang, Swift Savior"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Sazh's Chocobo"]
     },
     {

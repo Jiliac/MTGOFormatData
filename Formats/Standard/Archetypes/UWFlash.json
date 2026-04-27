@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Momo, Friendly Flier"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Kaito, Bane of Nightmares"]
     },
     {

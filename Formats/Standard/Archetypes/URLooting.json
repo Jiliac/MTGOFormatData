@@ -12,6 +12,14 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Eddymurk Crab"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kaito, Bane of Nightmares"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Slickshot Show-Off"]
     },
     {
