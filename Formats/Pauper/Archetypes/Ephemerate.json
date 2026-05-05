@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Sunscape Familiar"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Basilisk Gate"]
     }
   ],
   "Variants": [
