@@ -1,6 +1,6 @@
 {
   "Name": "Landfall",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
