@@ -1,0 +1,58 @@
+{
+  "Name": "Tron",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Mine"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Power Plant"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Tower"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Karn, the Great Creator",
+        "Trinisphere",
+        "The One Ring"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mystic Forge"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Glaring Fleshraker"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cloudpost"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Eldrazi Temple"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Knight of the Reliquary"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mox Diamond"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Show and Tell"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Metalworker"]
+    }
+  ]
+}

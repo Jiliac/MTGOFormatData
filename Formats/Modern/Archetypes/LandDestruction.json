@@ -1,14 +1,41 @@
 {
-  "Name": "LandDestruction",
-  "IncludeColorInName": false,
+  "Name": "Ponza",
+  "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Boom // Bust"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Cleansing Wildfire",
+        "Price of Freedom",
+        "Boom // Bust",
+        "Pillage",
+        "Molten Rain",
+        "Stone Rain"
+      ]
     },
     {
-      "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Pillage","Cleansing Wildfire","Molten Rain","Stone Rain","Vindicate","Smallpox","Flagstones of Trokair"]
+      "Type": "DoesNotContain",
+      "Cards": ["Ajani, Nacatl Pariah"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Guide of Souls"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scapeshift"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Tameshi, Reality Architect"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Primeval Titan"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grief"]
     }
   ]
 }

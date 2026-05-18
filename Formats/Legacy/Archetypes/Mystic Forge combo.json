@@ -59,6 +59,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Cloudpost"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza's Mine"]
     }
   ]
 }
