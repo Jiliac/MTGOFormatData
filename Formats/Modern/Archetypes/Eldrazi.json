@@ -74,6 +74,14 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Through the Breach"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Fatal Push"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Eldrazi Linebreaker"]
         }
       ]
     },

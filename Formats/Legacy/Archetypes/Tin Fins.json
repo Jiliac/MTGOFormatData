@@ -9,6 +9,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Griselbrand"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Neoform"]
         }
     ]
 }

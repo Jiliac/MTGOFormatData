@@ -12,7 +12,19 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Aluren"]  
+            "Cards": ["Aluren"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Witherbloom Apprentice"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Up the Beanstalk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
         }
     ]
 }

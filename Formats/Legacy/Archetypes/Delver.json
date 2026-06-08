@@ -47,6 +47,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Grief"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Uro, Titan of Nature's Wrath"]
     }
   ],
   "Variants": [

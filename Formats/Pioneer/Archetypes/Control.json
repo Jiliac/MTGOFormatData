@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Supreme Verdict","Akal Pakal, First Among Equals"]
+      "Cards": ["Supreme Verdict","Akal Pakal, First Among Equals","Teferi, Hero of Dominaria","Consult the Star Charts"]
     },
     {
       "Type": "DoesNotContainMainboard",

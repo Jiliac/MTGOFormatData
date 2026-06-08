@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Smallpox"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Bloodbraid Elf"]
     }
   ],
   "Variants": [

@@ -8,6 +8,18 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Veteran Explorer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Badgermole Cub"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Life from the Loam"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Painter's Servant"]
     },
     {
