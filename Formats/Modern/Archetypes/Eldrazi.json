@@ -50,30 +50,12 @@
       ]
     },
     {
-      "Name": "Gruul Broodscale",
+      "Name": "Broodscale",
       "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
           "Cards": ["Basking Broodscale"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Writhing Chrysalis"]
-        }
-      ]
-    },
-    {
-      "Name": "Mono-Green Broodscale",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Basking Broodscale"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Writhing Chrysalis"]
         }
       ]
     },
