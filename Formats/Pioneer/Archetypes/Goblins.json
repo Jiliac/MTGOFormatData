@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Rundvelt Hordemaster"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Reckless Bushwhacker"]
     }
   ]
 }
