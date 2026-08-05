@@ -8,7 +8,19 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Starfield Shepherd", "Sage of the Skies"]
+      "Cards": ["Starfield Shepherd", "Sage of the Skies", "Quantum Riddler"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Rona, Herald of Invasion"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Unholy Annex // Ritual Chamber"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Essence Flux"]
     }
   ]
 }
