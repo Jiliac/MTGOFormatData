@@ -4,15 +4,27 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Marauding Mako"]
+      "Cards": [
+        "Marauding Mako"
+      ]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Moonshadow"]
+      "Cards": [
+        "Moonshadow"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Tersa Lightshatter"]
+      "Cards": [
+        "Tersa Lightshatter"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Monument to Endurance"
+      ]
     }
   ]
 }

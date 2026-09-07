@@ -4,11 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Rundvelt Hordemaster"]
+      "Cards": [
+        "Rundvelt Hordemaster"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Reckless Bushwhacker"]
+      "Cards": [
+        "Legion Loyalist"
+      ]
     }
   ]
 }

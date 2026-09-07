@@ -1,18 +1,14 @@
 {
-  "Name": "Aristocrats",
+  "Name": "Dragons",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": [
-        "Infestation Sage"
-      ]
+      "Cards": ["Sarkhan, Dragon Ascendant"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": [
-        "Kaito, Bane of Nightmares"
-      ]
+      "Cards": ["Sarkhan, Soul Aflame"]
     }
   ]
 }

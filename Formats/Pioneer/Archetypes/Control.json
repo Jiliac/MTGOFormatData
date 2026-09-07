@@ -13,27 +13,46 @@
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Atraxa, Grand Unifier"]
+      "Cards": [
+        "Atraxa, Grand Unifier"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Lutri, the Spellchaser"]
+      "Cards": [
+        "Lutri, the Spellchaser"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Bring to Light"]
+      "Cards": [
+        "Bring to Light"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Enigmatic Incarnation"]
+      "Cards": [
+        "Enigmatic Incarnation"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Indomitable Creativity"]
+      "Cards": [
+        "Indomitable Creativity"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Agatha's Soul Cauldron"]
+      "Cards": [
+        "Agatha's Soul Cauldron"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Firebending Lesson",
+        "Combustion Technique"
+      ]
     }
   ],
   "Variants": [
@@ -43,7 +62,9 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Lotus Field"]
+          "Cards": [
+            "Lotus Field"
+          ]
         }
       ]
     },
@@ -53,7 +74,9 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Candy Trail"]
+          "Cards": [
+            "Candy Trail"
+          ]
         }
       ]
     }

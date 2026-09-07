@@ -1,18 +1,14 @@
 {
-  "Name": "Energy",
+  "Name": "Dwarves",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": [
-        "Guide of Souls"
-      ]
+      "Cards": ["Kíli the Resourceful"]
     },
     {
       "Type": "InMainboard",
-      "Cards": [
-        "Ocelot Pride"
-      ]
+      "Cards": ["Dáin's Company"]
     }
   ]
 }

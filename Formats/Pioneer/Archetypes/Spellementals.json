@@ -1,18 +1,14 @@
 {
-  "Name": "Energy",
+  "Name": "Spellementals",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": [
-        "Guide of Souls"
-      ]
+      "Cards": ["Hearth Elemental"]
     },
     {
       "Type": "InMainboard",
-      "Cards": [
-        "Ocelot Pride"
-      ]
+      "Cards": ["Eddymurk Crab"]
     }
   ]
 }
