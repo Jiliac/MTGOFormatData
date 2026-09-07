@@ -1,18 +1,18 @@
 {
-  "Name": "Faeries",
+  "Name": "Aggro",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Spellstutter Sprite"]
+      "Cards": ["Warleader's Call"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Priest of Titania"]
+      "Cards": ["Ajani's Pridemate"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Persistent Petitioners"]
+      "Cards": ["Hinterland Sanctifier"]
     }
   ]
 }

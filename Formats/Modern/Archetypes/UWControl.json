@@ -3,6 +3,10 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Psychic Frog"]
+    },
+    {
       "Type": "TwoOrMoreInMainboard",
       "Cards": [
         "Teferi, Time Raveler",
