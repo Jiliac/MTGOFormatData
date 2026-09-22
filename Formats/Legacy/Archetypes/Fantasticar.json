@@ -1,0 +1,34 @@
+{
+  "Name": "Fantasticar",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Fantasticar"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Dark Ritual"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Doomsday"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Lion's Eye Diamond"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Entomb"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Animate Dead", "Reanimate", "Exhume"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Moonshadow"]
+    }
+  ]
+}
