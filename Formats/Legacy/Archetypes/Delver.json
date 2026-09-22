@@ -10,7 +10,6 @@
         "Orcish Bowmasters",
         "Nethergoyf",
         "Murktide Regent",
-        "Moonshadow",
         "Bilbo, Thief in the Night"
       ]
     },
@@ -81,12 +80,16 @@
       "IncludeColorInName": true,
       "Conditions": [
         {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Moonshadow", "Bilbo, Thief in the Night"]
+          "Type": "InMainboard",
+          "Cards": ["Bilbo, Thief in the Night"]
         },
         {
           "Type": "DoesNotContainMainboard",
-          "Cards": ["Delver of Secrets", "Dragon's Rage Channeler"]
+          "Cards": ["Delver of Secrets"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Dragon's Rage Channeler"]
         }
       ]
     },
