@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Kíli the Resourceful", "Dáin's Company", "Dwarven Mauler", "Thorin, Mountain-King"]
+      "Cards": ["Kíli the Resourceful", "Dáin's Company", "Dwarven Mauler", "Thorin, Mountain-king"]
     },
     {
       "Type": "DoesNotContain",
