@@ -3,12 +3,12 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Kíli the Resourceful"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Kíli the Resourceful", "Dáin's Company", "Dwarven Mauler", "Thorin, Mountain-King"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Dáin's Company"]
+      "Type": "DoesNotContain",
+      "Cards": ["Shiko, Paragon of the Way"]
     }
   ]
 }

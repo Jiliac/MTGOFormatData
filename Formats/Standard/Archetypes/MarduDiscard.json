@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Tersa Lightshatter"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Tersa Lightshatter", "Bloodghast"]
     },
     {
       "Type": "InMainboard",
